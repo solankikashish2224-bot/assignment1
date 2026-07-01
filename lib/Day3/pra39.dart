@@ -1,6 +1,6 @@
 import "dart:io";
 void main(){
-  stdout.write("Enter Annual Income:");
+  stdout.write("Enter Annual Income=");
   double income =double.parse(stdin.readLineSync()!);
   double tax;
   if(income<=250000)
