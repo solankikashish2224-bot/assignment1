@@ -23,7 +23,7 @@ void main()
   print("price:50000");
   print("Brand=HP");
   //print a 5 * 5 star pattern
-  
+
   print("5 * 5 patter");
   print("*****");
   print("*****");
