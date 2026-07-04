@@ -3,7 +3,7 @@ void main()
 {
 stdout.write("Add Age:");
 int age = int.parse(stdin.readLineSync()!);
-if(age >=0)
+if(age >=18)
   {
     print("validate Age:${age}");
   }
