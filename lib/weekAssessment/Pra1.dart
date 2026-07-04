@@ -37,11 +37,11 @@ void main()
 
           break;
         case 4:
-          print("Student Id:");
-          print("Student Name:");
-          print("Student Age:");
-          print("Student Course");
-          print("Student Percentage:");
+          stdout.write("Student Id:");
+          stdout.write("Student Name:");
+          stdout.write("Student Age:");
+          stdout.write("Student Course");
+          stdout.write("Student Percentage:");
 
         case 3:
           stdout.write("Search student:");
